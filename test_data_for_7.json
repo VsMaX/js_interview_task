@@ -1,0 +1,8 @@
+[{"id": 1,"name": "Piotr","age": 47,"parent_id": 5},
+  {"id": 2,"name": "Pawel","age": 32,"parent_id": 5},
+  {"id": 3,"name": "Wladyslaw","age": 11,"parent_id": 2},
+  {"id": 4,"name": "Boleslaw","age": 12,"parent_id": 2},
+  {"id": 5,"name": "Zdzislaw","age": 48,"parent_id": 7},
+  {"id": 6,"name": "Zbigniew","age": 50,"parent_id": 0},
+  {"id": 7,"name": "Bogumil","age": 83,"parent_id": 6},
+  {"id": 8,"name": "Waclaw","age": 89,"parent_id": 6}]

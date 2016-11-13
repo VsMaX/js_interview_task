@@ -1,0 +1,3 @@
+[{"id": 1001,"name": "Bialek","age": 3,"vaccine": "+","parent_id": 0},
+  {"id": 1002,"name": "Manio","age": 1,"vaccine": "+","parent_id": 1001},
+  {"id": 1003,"name": "Sinio","age": 2,"vaccine": "-","parent_id": 1001}]

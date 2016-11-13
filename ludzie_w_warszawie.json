@@ -1,0 +1,4 @@
+[{"id": 1,"name": "Piotr","surname": "Nowak","age": 17,"city": "Warszawa","parent_id": 2},
+  {"id": 2,"name": "Andrzej","surname": "Kowalski","age": 47,"city": "Poznan","parent_id": 0},
+  {"id": 2,"name": "Andrzej","surname": "Kowalski","age": 47,"city": "Poznan","parent_id": 0},
+  {"id": 3,"name": "Stanislaw","surname": "Nowak","age": 3,"city": "Krakow","parent_id": 2}]
